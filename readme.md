@@ -1,6 +1,6 @@
 # Laravel Vue Search Panel
 
-Simple user search application that shows realtime results uses laravel API authentication
+Simple user search application that shows realtime results uses laravel Vue
 
 ### Screenshots
 
